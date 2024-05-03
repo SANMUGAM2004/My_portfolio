@@ -1,6 +1,6 @@
 import React from "react";
 import avatarImage from "./Avatar.jpg";
-const resumeLink = "https://drive.google.com/file/d/1AIjzQ-jOLhTV26ZDphequn_0I780erW0/view?usp=sharing";
+const resumeLink = "https://drive.google.com/file/d/1axmz9LrJ1EB1vWBV2XZal6er5gqOkVFU/view?usp=sharing";
 
 function Intro() {
     const openResume = () => {
